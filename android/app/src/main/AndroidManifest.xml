@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="prueba_tecnica_seek"
+        android:label="To Do Seek"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
